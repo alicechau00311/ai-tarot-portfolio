@@ -7,7 +7,7 @@
 | Role | Solo full-stack: product, visual design, frontend, backend, LLM interpretation |
 | Type | Bilingual AI tarot reading web app (MVP) |
 | Stack | Next.js 16 · React 19 · FastAPI · Postgres / Supabase · Gemini · SSE |
-| Live | {{LIVE_URL}} |
+| Live | {{LIVE_URL}} (TBC) |
 
 ![AI Tarot landing atmosphere](Images/hero-webpage.webp)
 
